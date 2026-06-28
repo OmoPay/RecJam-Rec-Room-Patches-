@@ -18,6 +18,8 @@ Go to releases and download version Rec.js 0.1.5 or whatever is the latest
 
 Then go onto (https://github.com/aqquad/RebornRec/) go to releases and download RebornRec 5.2.0 or whatever is the latest
 
+Then go to releases on my github page and download whichever version you want
+
 ## How to setup Rec.js
 extract the Rec.js folder then go into the folder then right click on the folder and open in terminal then
 
