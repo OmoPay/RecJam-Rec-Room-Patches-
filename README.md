@@ -11,7 +11,6 @@ There are some issues that people cant move and idk why :)
 
 Because Rec.js doesn't support multiplayer sadly you wont be able to play with others :(
 
-[My Github](https://omopay.github.io/OmoPay-Profile/)
 
 ## How to Install
 Go onto (https://github.com/RealMCoded/Rec.js/)
@@ -38,3 +37,6 @@ Disclaimer: Sometimes for me atleast when you start up the build again after a w
 
 ## Thanks
 Tysm Rec.js and RebornRec for making this project possible :)
+
+## Socials
+[My Github](https://omopay.github.io/OmoPay-Profile/)
