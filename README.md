@@ -23,7 +23,7 @@ extract the Rec.js folder then go into the folder then right click on the folder
 
 npm i
 
-then
+&
 
 npm run rec.js
 
